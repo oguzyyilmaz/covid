@@ -98,7 +98,7 @@ class ReportCovid extends Component {
                 text: "TÜRKİYE COVID-19 HASTA TABLOSU"
             }],
             axisY: {
-                title: "Tarih",
+                title: "",
                 suffix: "",
                 maximum: 2500
             },
